@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.workday.java.JobRunnerTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.084 s - in com.workday.java.JobRunnerTest

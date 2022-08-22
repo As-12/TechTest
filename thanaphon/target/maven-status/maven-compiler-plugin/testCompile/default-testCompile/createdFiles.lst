@@ -1,0 +1,6 @@
+com\workday\java\strategies\FairJobRankingStrategyTest.class
+com\workday\java\jobs\NaiveJob.class
+com\workday\java\queue\NaiveJobQueue.class
+com\workday\java\JobRunnerTest.class
+com\workday\java\strategies\GreedyJobRankingStrategyTest.class
+com\workday\java\jobs\FailingJob.class

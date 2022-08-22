@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.workday.java.strategies.GreedyJobRankingStrategyTest" time="0.001" tests="2" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="D:\Projects\Workday\thanaphon\target\test-classes;D:\Projects\Workday\thanaphon\target\classes;C:\Users\as12p\.m2\repository\ch\qos\logback\logback-classic\1.2.3\logback-classic-1.2.3.jar;C:\Users\as12p\.m2\repository\ch\qos\logback\logback-core\1.2.3\logback-core-1.2.3.jar;C:\Users\as12p\.m2\repository\org\slf4j\slf4j-api\1.7.25\slf4j-api-1.7.25.jar;C:\Users\as12p\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\as12p\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.vm.vendor" value="Temurin"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://adoptium.net/"/>
+    <property name="user.timezone" value="Europe/London"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="C:\Users\as12p\.jdks\adopt-openjdk-1.8.0_302\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\as12p\AppData\Local\Temp\surefire3451084240846561681\surefirebooter4248287829144930151.jar C:\Users\as12p\AppData\Local\Temp\surefire3451084240846561681 2021-08-12T00-38-41_397-jvmRun1 surefire4585799877072448883tmp surefire_05188119837312145315tmp"/>
+    <property name="surefire.test.class.path" value="D:\Projects\Workday\thanaphon\target\test-classes;D:\Projects\Workday\thanaphon\target\classes;C:\Users\as12p\.m2\repository\ch\qos\logback\logback-classic\1.2.3\logback-classic-1.2.3.jar;C:\Users\as12p\.m2\repository\ch\qos\logback\logback-core\1.2.3\logback-core-1.2.3.jar;C:\Users\as12p\.m2\repository\org\slf4j\slf4j-api\1.7.25\slf4j-api-1.7.25.jar;C:\Users\as12p\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\as12p\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\as12p"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="C:\Users\as12p\.jdks\adopt-openjdk-1.8.0_302\jre"/>
+    <property name="basedir" value="D:\Projects\Workday\thanaphon"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\as12p\AppData\Local\Temp\surefire3451084240846561681\surefirebooter4248287829144930151.jar"/>
+    <property name="sun.boot.class.path" value="C:\Users\as12p\.jdks\adopt-openjdk-1.8.0_302\jre\lib\resources.jar;C:\Users\as12p\.jdks\adopt-openjdk-1.8.0_302\jre\lib\rt.jar;C:\Users\as12p\.jdks\adopt-openjdk-1.8.0_302\jre\lib\sunrsasign.jar;C:\Users\as12p\.jdks\adopt-openjdk-1.8.0_302\jre\lib\jsse.jar;C:\Users\as12p\.jdks\adopt-openjdk-1.8.0_302\jre\lib\jce.jar;C:\Users\as12p\.jdks\adopt-openjdk-1.8.0_302\jre\lib\charsets.jar;C:\Users\as12p\.jdks\adopt-openjdk-1.8.0_302\jre\lib\jfr.jar;C:\Users\as12p\.jdks\adopt-openjdk-1.8.0_302\jre\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_302-b08"/>
+    <property name="user.name" value="as12p"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.endorsed.dirs" value="C:\Users\as12p\.jdks\adopt-openjdk-1.8.0_302\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\as12p\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://github.com/adoptium/adoptium-support/issues"/>
+    <property name="java.io.tmpdir" value="C:\Users\as12p\AppData\Local\Temp\"/>
+    <property name="idea.version" value="2021.1.2"/>
+    <property name="java.version" value="1.8.0_302"/>
+    <property name="user.dir" value="D:\Projects\Workday\thanaphon"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Users\as12p\.jdks\adopt-openjdk-1.8.0_302\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\VMware\VMware Player\bin\;C:\Program Files\Oculus\Support\oculus-runtime;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Users\as12p\AppData\Local\Microsoft\WindowsApps;C:\Users\as12p\.dotnet\tools;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Temurin"/>
+    <property name="java.vm.version" value="25.302-b08"/>
+    <property name="java.ext.dirs" value="C:\Users\as12p\.jdks\adopt-openjdk-1.8.0_302\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="testGivenNegativeDurationJobShouldReturnSamePriorityAsDuration" classname="com.workday.java.strategies.GreedyJobRankingStrategyTest" time="0.001"/>
+  <testcase name="testGivenSameJobTwiceShouldNotChangePriority" classname="com.workday.java.strategies.GreedyJobRankingStrategyTest" time="0"/>
+</testsuite>
